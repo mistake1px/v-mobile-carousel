@@ -37,7 +37,7 @@ export default {
 ### events
 
 |名称 | 参数 | 说明 |
-|---|----|---|---|
+|---|----|---|
 |@index-change| Number| 当内部图片变化时，透传当前处于active的数组索引，该索引默认应为0|
 
 ## License (MIT)
